@@ -8,6 +8,7 @@ Here are some results:<br>
 ![image](https://github.com/user-attachments/assets/644a2f50-39da-4705-b820-acdb58176a74)
 
 the satellite image dataset can be downloaded [here](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset?select=maps)
+<br><br>
 pretrained weights can be downloaded [here](https://drive.google.com/file/d/1qCPTzvcXojpYjVPwPU9FqU2XDItIu7Ho/view?usp=drive_link)
 
 to run the model : 
