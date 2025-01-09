@@ -10,8 +10,8 @@ Here are some results:<br>
 the satellite image dataset can be downloaded [here](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset?select=maps)
 <br><br>
 pretrained weights can be downloaded [here](https://drive.google.com/file/d/1qCPTzvcXojpYjVPwPU9FqU2XDItIu7Ho/view?usp=drive_link)
-
-to run the model : 
-## 1. Download the generator.py and inference.py file and the model's weight
-## 2. make sure they are in the same folde
-## 3. replace the image_path in the inference.py with the image you want to use
+<br>
+##to run the model : 
+### 1. Download the generator.py and inference.py file and the model's weight
+### 2. make sure they are in the same folde
+### 3. replace the image_path in the inference.py with the image you want to use
