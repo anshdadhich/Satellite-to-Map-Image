@@ -7,6 +7,4 @@ Here are some results:<br>
 ![image](https://github.com/user-attachments/assets/7848eecc-9fb8-4d51-bff7-7ffd57576ca3)
 ![image](https://github.com/user-attachments/assets/644a2f50-39da-4705-b820-acdb58176a74)
 
-
-
-
+the satellite image dataset can be downloaded from [link](doc:https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset?select=maps)
