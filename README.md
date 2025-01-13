@@ -15,5 +15,5 @@ pretrained weights can be downloaded [here](https://drive.google.com/file/d/1qCP
 
 ## To run the model : 
 #### 1. Download the generator.py and inference.py file and the model's weight
-#### 2. make sure they are in the same folde
+#### 2. make sure they are in the same folder
 #### 3. replace the image_path in the inference.py with the image you want to use
