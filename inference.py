@@ -20,7 +20,10 @@ with torch.no_grad():
     
     image = numpy.array(Image.open(image_path))
     
-    image = image[:,:600,:]
+    try:
+        image = image[:,:600,:]
+    except:
+        image = image[:,:,:]
     
     transform = aug.Compose(
         [aug.Resize(width = 256, height = 256),aug.Normalize(mean = [0.5,0.5,0.5], std = [0.5,0.5,0.5], max_pixel_value = 255.0), ToTensorV2()]
