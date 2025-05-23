@@ -16,4 +16,5 @@ pretrained weights can be downloaded [here](https://drive.google.com/drive/folde
 ## To run the model : 
 #### 1. Download the generator.py and inference.py file and the model's weight
 #### 2. make sure they are in the same folder
-#### 3. replace the image_path in the inference.py with the image you want to use and make sure that either the image is of dimension 600x600 or 1200x600 (half input and half target like in the dataset)
+#### 3. replace the image_path in the inference.py with the image you want to use and 
+### 4. make sure that either the image is of dimension 600x600 or 1200x600 (half input and half target like in the dataset)
